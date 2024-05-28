@@ -50,13 +50,13 @@ fun main() {
     val producto = num3 * num4
     println("el producto es $producto:")
 */
-
+/*
     print("ingrese cuantro numeros enteros")
     print("num1:")
     print("num2:")
     print("num3:")
     print("num4:")
-    val num1 = readln().toDouble()
+    val num1 = readln().toInt()
     val num2 = readln().toDouble()
     val num3 = readln().toDouble()
     val num4 = readln().toDouble()
@@ -64,7 +64,7 @@ fun main() {
     println("la suma es: $suma:")
     val promedio = num1 + num2 + num3 + num4 /3
     println("el promedio es: $promedio:")
-
+*/
 
 
 
