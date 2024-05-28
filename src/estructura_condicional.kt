@@ -64,7 +64,7 @@ println("la suma de los valores es: $suma")
         //proplema 1
     }
 */
-
+/*
     print("ingrese ingrese un numero de 1 al 99:")
     val numero: Int = readln().toInt()
     if (numero >= 10) {
@@ -76,5 +76,13 @@ println("la suma de los valores es: $suma")
 
         println("el numero contiene dos digitos")}
     // problema 2
+*/
+
+
+
+
+
+
+
 
 }
