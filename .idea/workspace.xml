@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbbfdd72-b0d4-4f7b-9c68-a22978464f51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/condicionalescompuestas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estructurarepetitivawhile.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionalescompuestas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionalescompuestas.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/estructurascondicionalesanidadas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructurascondicionalesanidadas.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +43,10 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Kotlin.Condicional_com_exprecionKt.executor": "Run",
-    "Kotlin.CondicionalescompuestasKt.executor": "Run",
+    "Kotlin.CondicionalescompuestasKt.executor": "Debug",
     "Kotlin.EntradaDatosConsolaKt.executor": "Run",
     "Kotlin.Estructura_condicionalKt.executor": "Run",
+    "Kotlin.EstructurarepetitivawhileKt.executor": "Debug",
     "Kotlin.EstructurascondicionalesanidadasKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.Problema1Kt.executor": "Run",
@@ -55,7 +57,7 @@
     "onboarding.tips.debug.path": "C:/Users/fabian/Documents/kotlin/proyecto_1/src/Main.kt"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.CondicionalescompuestasKt">
+  <component name="RunManager" selected="Kotlin.EstructurarepetitivawhileKt">
     <configuration name="Condicional_com_exprecionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condicional_com_exprecionKt" />
       <module name="proyecto_1" />
@@ -70,15 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EntradaDatosConsolaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EntradaDatosConsolaKt" />
+    <configuration name="Estructura_condicionalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Estructura_condicionalKt" />
       <module name="proyecto_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Estructura_condicionalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Estructura_condicionalKt" />
+    <configuration name="EstructurarepetitivawhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstructurarepetitivawhileKt" />
       <module name="proyecto_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EstructurarepetitivawhileKt" />
         <item itemvalue="Kotlin.CondicionalescompuestasKt" />
         <item itemvalue="Kotlin.EstructurascondicionalesanidadasKt" />
         <item itemvalue="Kotlin.Condicional_com_exprecionKt" />
         <item itemvalue="Kotlin.Estructura_condicionalKt" />
-        <item itemvalue="Kotlin.EntradaDatosConsolaKt" />
       </list>
     </recent_temporary>
   </component>
@@ -125,5 +127,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/estructurarepetitivawhile.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

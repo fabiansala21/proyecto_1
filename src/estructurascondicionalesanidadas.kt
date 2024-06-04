@@ -55,41 +55,38 @@ fun main () {
 
     //problema3
 /*
-        println("Ingrese un número entero positivo de hasta tres cifras:")
-        val input = readLine()
-
-        if (input != null && input.isNotEmpty()) {
-            try {
-                val number = input.toInt()
-                if (number in 0..999) {
-                    when (input.length) {
-                        1 -> println("El número tiene 1 cifra.")
-                        2 -> println("El número tiene 2 cifras.")
-                        3 -> println("El número tiene 3 cifras.")
-                    }
-                } else {
-                    println("Error: El número tiene más de tres cifras.")
-                }
-            } catch (e: NumberFormatException) {
-                println("Error: Entrada no válida. Por favor, ingrese un número entero positivo.")
-            }
-        } else {
-            println("Error: No se ingresó ningún valor.")
-        }
+        print("Ingrese primer valor:")
+         val num1 = readln().toInt()
+         print("Ingrese segundo valor:")
+         val num2 = readln().toInt()
+         print("Ingrese tercer valor:")
+         val num3 = readln().toInt()
+         if (num1 > num2 && num1 > num3)
+             print(num1)
+         else
+             if (num2 > num3)
+                 print(num2)
+             else
+                 print(num3);
     */
     /*
 //prolema4
+
     print("Ingrese cantidad de total de prequntas:")
     val cantidad1 = readln().toInt()
     print("Ingrese cantidad de pregunats cantestadas cornectamente:")
     val cantidad2 = readln().toInt()
     val promedio : Float = cantidad2/cantidad1.toFloat()
+
     if(promedio >= 0.9)
     print ("Nivel máximo")
+
     if(promedio >= 0.75 && promedio < 0.9)
         print ("Nivel medio")
+
     if(promedio >= 0.50 && promedio< 0.75)
         print("Nivel regular")
+
     if(promedio < 0.50)
         print("Fuera de nivel")
 */

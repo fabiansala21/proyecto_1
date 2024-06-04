@@ -1,4 +1,4 @@
-fun main(){   
+fun main(){
 
         /* print("Ingrese primer valor:")
          val num1 = readln().toInt()
