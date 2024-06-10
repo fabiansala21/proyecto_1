@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbbfdd72-b0d4-4f7b-9c68-a22978464f51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/estructurarepetitivawhile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estructurarepetitiva_dowhile.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/condicionalescompuestas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionalescompuestas.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructurascondicionalesanidadas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructurascondicionalesanidadas.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructurarepetitivawhile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructurarepetitivawhile.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     "Kotlin.CondicionalescompuestasKt.executor": "Debug",
     "Kotlin.EntradaDatosConsolaKt.executor": "Run",
     "Kotlin.Estructura_condicionalKt.executor": "Run",
-    "Kotlin.EstructurarepetitivawhileKt.executor": "Debug",
+    "Kotlin.EstructurarepetitivawhileKt.executor": "Run",
     "Kotlin.EstructurascondicionalesanidadasKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.Problema1Kt.executor": "Run",
@@ -127,16 +126,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/estructurarepetitivawhile.kt</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
