@@ -33,7 +33,7 @@ fun main() {
     }else{
         print("no se ingresaron valores")
 */
-
+    /*
     var cantidad_inferior = 0 // por debajo de 9.8.
     var cantidad_superior = 0 // por debajo de 18.2
     var cantidad_adecuado = 0 // por debajo de 10.2
@@ -57,6 +57,48 @@ fun main() {
     println("piezas peso inferior a 9.8: $cantidad_inferior")
     val suma = cantidad_adecuado + cantidad_superior + cantidad_inferior
     println("cantidad total de piezas procesadas: $suma")
+*/
+    /*
+    var sum = 0
+    var input: Int
+
+    do {
+        println("ingrese un valor (9999 para finalizar)")
+        input = readln().toInt()
+        if (input != 9999)
+            sum += input // += = suma
+    }while (input != 9999)
+
+    println("valor acomulado: $sum")
+    if (sum > 0)
+        println("el valor acomulado es mayor a 0")
+    else
+        if (sum < 0)
+            println("el valor acomulado es menor a 0")
+    else
+        println("el valor es 0")
+*/
+    var suma = 0
+    do {
+        print("numero de cuenta:")
+        val valor1 = readln().toInt()
+        if (valor1 >= 0) {
+            println("digite su saldo:")
+            val valor2 = readln().toInt()
+            if (valor2 > 0) {
+                println("acreedor")
+                suma = suma + valor2
+            } else {
+                if (valor2 < 0)
+                    println("deudor")
+            }
+        }else{
+            println("nulo")
+        }
+    }while (valor1 >= 0)
+    println("acreedores en total: $suma")
+
+
 
 
 
@@ -74,4 +116,5 @@ fun main() {
 
 
 
-}
+
+
