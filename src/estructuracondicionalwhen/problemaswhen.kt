@@ -36,7 +36,7 @@ fun main() {
         println("El acumulador final es: $acumulador")
     }
 */
-
+/*
     print("Ingrese la cantidad de triángulos a evaluar: ")
     val n = readLine()!!.toInt()
     var contadorEquilateros = 0
@@ -72,7 +72,31 @@ fun main() {
     println(" Equiláteros: $contadorEquilateros")
     println(" Isósceles: $contadorIsosceles")
     println("     Escalenos: $contadorEscalenos")
-}
+*/
+
+    var hijos1 = 0
+    var hijos2 = 0
+    var hijos3 = 0
+    var mas  = 0
+    for (i in 1..10){
+
+        print("ingrese la cantidad de hijos que tiene la familia: ")
+        val hijos = readln().toInt()
+        when(hijos){
+
+            0 -> hijos1 ++
+            1 -> hijos2 ++
+            2 -> hijos3 ++
+            else -> mas ++
+
+
+        }
+
+    }
+    println("cantidad de hijos de la familia1: $hijos1")
+    println("cantidad de hijos de la familia2: $hijos2")
+    println("cantidad de hijos de la familia3: $hijos3")
+
 
 
 
