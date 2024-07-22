@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbbfdd72-b0d4-4f7b-9c68-a22978464f51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/conceptofunciones/proyecto70.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conceptofunciones/proyecto71.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estructuracondicionalwhen/proyecto66.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estructuracondicionalwhen/proyecto67.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estructuracondicionalwhen/proyecto68.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcionesparametro/proyecto74.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_con_exprecionunica/proyecto85.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_con_exprecionunica/proyecto86.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_con_exprecionunica/proyecto87.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcionesconretorno/problema234.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcionesconretorno/problemaspropuestos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcionesconretorno/proyecto79.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcionesconretorno/proyecto80.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcionesconretorno/proyecto81.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructuracondicionalwhen/problemaswhen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructuracondicionalwhen/problemaswhen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/funcionesparametro/proyecto74.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funcionesparametro/proyecto74.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +60,7 @@
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.Problema1Kt.executor": "Run",
     "Kotlin.Problema1_tiposvariablesKt.executor": "Run",
+    "Kotlin.ProblemaspropuestosKt.executor": "Run",
     "Kotlin.ProblemaswhenKt.executor": "Run",
     "Kotlin.Proyecto59Kt.executor": "Run",
     "Kotlin.Proyecto61Kt.executor": "Run",
@@ -76,7 +80,7 @@
       <recent name="C:\Users\fabian\Documents\kotlin\proyecto_1\src\estructuracondicionalwhen" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ProblemaswhenKt">
+  <component name="RunManager" selected="Kotlin.ProblemaspropuestosKt">
     <configuration name="Problema1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problema1Kt" />
       <module name="proyecto_1" />
@@ -84,15 +88,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemaswhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemaswhenKt" />
+    <configuration name="ProblemaspropuestosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemaspropuestosKt" />
       <module name="proyecto_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Proyecto61Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Proyecto61Kt" />
+    <configuration name="ProblemaswhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemaswhenKt" />
       <module name="proyecto_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ProblemaspropuestosKt" />
         <item itemvalue="Kotlin.ProblemaswhenKt" />
         <item itemvalue="Kotlin.Proyecto68Kt" />
         <item itemvalue="Kotlin.Problema1Kt" />
         <item itemvalue="Kotlin.Proyecto62Kt" />
-        <item itemvalue="Kotlin.Proyecto61Kt" />
       </list>
     </recent_temporary>
   </component>
