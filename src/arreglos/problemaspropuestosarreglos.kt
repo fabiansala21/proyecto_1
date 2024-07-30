@@ -10,4 +10,20 @@ fun main() {
     var acumuladosmayoresa36 = 0
     var acumuladosmenoresa50 = 0
 
+    for (num in elementos){
+        acumulado += num
+        if (num >= 36 ){
+            acumuladosmayoresa36 += num
+            if (num >= 50){
+                acumuladosmenoresa50++
+
+            }
+        }
+    }
+    println("valor de todos los numero: $acumulado")
+    println("valor de todos los numero mayores a 36: $acumuladosmayoresa36")
+    println("valor de todos los numero mayores a 50: $acumuladosmenoresa50")
+
+
+
 }
