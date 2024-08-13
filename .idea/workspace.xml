@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbbfdd72-b0d4-4f7b-9c68-a22978464f51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/conceptos_POO/problemapropuestoPOO.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conceptos_POO/proyecto109.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conceptos_POO/proyecto110.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POOllamadametodos/problemacompuestometodos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POOllamadametodos/proyecto117.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructores/problemaspropuestoscConstrutor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructores/proyecto112.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructores/proyecto113.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructores/proyecto114.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
