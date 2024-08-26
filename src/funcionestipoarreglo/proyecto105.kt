@@ -1,3 +1,4 @@
+/*
 fun cargar(arreglo: IntArray) {
     for(i in arreglo.indices) {
         print("Ingrese elemento:")
@@ -15,3 +16,6 @@ fun main(parametro: Array<String>) {
     imprimir(arre)
 }
 
+
+
+ */

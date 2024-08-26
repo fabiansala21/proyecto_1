@@ -19,16 +19,21 @@ class hijos {
         print("ingrese al quinta edad")
         edad5 = readln().toInt()
        mayor()
+
         promedio()
     }
     fun mayor(){
-        if (nota >= 4)
-            println("tiene mas de 4 $nota")
+        if (edad1 >= 4)
+            println("tiene mas de 4 $edad1")
         else
-            println("tiene menos de 4 $nota")
+            println("tiene menos de 4 $edad1")
+    }
+
+    fun promedio(){
+
+
     }
 
 
     }
 
-}
